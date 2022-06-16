@@ -1,5 +1,14 @@
-package com.mybank.tui;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package clidemo;
 
+/**
+ *
+ * @author Win7
+ */
 import com.mybank.domain.Bank;
 import com.mybank.domain.CheckingAccount;
 import com.mybank.domain.Customer;
@@ -12,7 +21,6 @@ import org.jline.reader.*;
 import org.jline.reader.impl.completer.*;
 import org.jline.utils.*;
 import org.fusesource.jansi.*;
-
 /**
  * Sample application to show how jLine can be used.
  *
